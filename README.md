@@ -21,3 +21,4 @@ When you type in your dream, the model analyzes it and returns an interpretation
 ## Demo
 You can use the `.gguf` file locally and interact with the model via the FastAPI backend. Here is an example of the API in action:
 
+[dream_catcher.webm](https://github.com/user-attachments/assets/7c5446d7-272a-4a42-ac2f-0c8d63c01a6b)
